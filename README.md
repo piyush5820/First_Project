@@ -16,6 +16,7 @@ This repository contains a collection of Python scripts and exercises completed 
 - **day11.py**: Grading system using elif statements
 - **day12.py**: Loops and pattern printing
 - **day14.py**: Introduction to functions and basic function examples
+- **day15.py**: File handling in Python (reading, writing, modes, error handling)
 
 ## Requirements
 
